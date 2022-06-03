@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb7785af1b33890cfc0984d343c9aa78",
+    "revision": "152792bb19304ce685b24d646fd80795",
     "url": "/box-office-app-1/index.html"
   },
   {
-    "revision": "e597a091dfdc83343cbc",
-    "url": "/box-office-app-1/static/css/main.93052401.chunk.css"
+    "revision": "967e873d129af2628700",
+    "url": "/box-office-app-1/static/css/main.677140fb.chunk.css"
   },
   {
     "revision": "ccb37cedc54dc142b414",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/box-office-app-1/static/js/2.80de6569.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e597a091dfdc83343cbc",
-    "url": "/box-office-app-1/static/js/main.9330bae5.chunk.js"
+    "revision": "967e873d129af2628700",
+    "url": "/box-office-app-1/static/js/main.df2a0027.chunk.js"
   },
   {
     "revision": "fad5f5ffad5ccb32398b",
